@@ -64,4 +64,4 @@ export default class MyIntergral extends React.Component {
 }
 
 ```
-![](https://github.com/songhaoreact/react-sk-countdown/blob/master/demo.gif)
+![](https://github.com/songhaoreact/react-sk-countdown/blob/master/demo1.gif)
