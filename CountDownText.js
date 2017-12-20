@@ -11,10 +11,11 @@ this.refs.countDownText.end();
 'use strict'
 
 var React = require('react');
+var createClass = require('create-react-class');
 var update = require('react-addons-update'),
     countDown = require('./countDown.js');
 
-var CountDownText = React.createClass({
+var CountDownText = createClass({
   counter: null, // 计时器
   // 定时回调
   getDefaultProps: function(){
